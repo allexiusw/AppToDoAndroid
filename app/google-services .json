@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "497021491157",
+    "firebase_url": "https://notificationsdemo-6bb3b.firebaseio.com",
+    "project_id": "notificationsdemo-6bb3b",
+    "storage_bucket": "notificationsdemo-6bb3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497021491157:android:6b28b4c2accbdc4b8bcf5c",
+        "android_client_info": {
+          "package_name": "org.allex.notificationsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497021491157-lirgt94ptm17qjnu1tvnpg64soj1trml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw_uY9MeHnKkarZs1tdAXe7pFZ0Dtm5rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497021491157-lirgt94ptm17qjnu1tvnpg64soj1trml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
